@@ -1,8 +1,7 @@
 # Python-Visualizations
 There are 50 Visualizations which can you to finish 7 different purposes of data analysis. 
- ##1. Correlation
-    
-    ###1.1 Scatter plot（散点图）
+ ## 1. Correlation
+ ### 1.1 Scatter plot（散点图）
    
     Scatteplot is a classic and fundamental plot used to study the relationship between two variables. If you have multiple groups in your data you may want to visualise each group in a different color. In matplotlib, you can conveniently do this using plt.scatterplot().
     
