@@ -44,7 +44,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
     ![]()
  Code(代码)：
  
- ### 1.5Counts Plot（计数图）
+ ### 1.5 Counts Plot（计数图）
  
    Another option to avoid the problem of points overlap is the increase the size of the dot depending on how many points lie in that spot. So, larger the size of the point more is the concentration of points around that.
  
@@ -68,14 +68,14 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Image/Marginal%20Boxplot.png)
    Code (代码):[Marginal Boxplot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Marginal%20Boxplot.py)
  
- ### 1.8Correlogram（相关图）
+ ### 1.8 Correlogram（相关图）
    
    Correlogram is used to visually see the correlation metric between all possible pairs of numeric variables in a given dataframe (or 2D array).
    
    相关图用于直观地查看给定数据框（或二维数组）中所有可能的数值变量对之间的相关度量。
   ![]()
  Code(代码)：
- ### 1.9Pairwise Plot（矩阵图）
+ ### 1.9 Pairwise Plot（矩阵图）
  
    Pairwise plot is a favorite in exploratory analysis to understand the relationship between all possible pairs of numeric variables. It is a must have tool for bivariate analysis.
    
