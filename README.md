@@ -26,6 +26,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
  ### 1.4Jittering with stripplot
  ### 1.5Counts Plot
  ### 1.6Marginal Histogram
+ []!()
  Code(代码)：[Marginal Histogram.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Marginal%20Histogram.py)
  ### 1.7Marginal Boxplot
  ### 1.8Correlogram
