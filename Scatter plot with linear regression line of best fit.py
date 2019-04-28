@@ -3,7 +3,6 @@
 # The below plot shows how the line of best fit differs amongst various groups in the data.
 # To disable the groupings and to just draw one line-of-best-fit for the entire dataset, remove the hue='cyl' parameter from the sns.lmplot() call below.
 
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
