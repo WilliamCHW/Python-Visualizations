@@ -6,6 +6,7 @@ import seaborn as sns
 import warnings
 
 
+
 # Import Data
 df = pd.read_csv("https://raw.githubusercontent.com/selva86/datasets/master/mpg_ggplot2.csv")
 df_counts = df.groupby(['hwy', 'cty']).size().reset_index(name='counts')
