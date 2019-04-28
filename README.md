@@ -32,6 +32,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    边缘直方图具有沿 X 和 Y 轴变量的直方图。 这用于可视化 X 和 Y 之间的关系以及单独的 X 和 Y 的单变量分布。 这种图经常用于探索性数据分析（EDA）。
    
  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Image/Marginal%20Histogram.png)
+
  Code(代码)：[Marginal Histogram.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Marginal%20Histogram.py)
  ### 1.7 Marginal Boxplot（边缘箱形图）
  
