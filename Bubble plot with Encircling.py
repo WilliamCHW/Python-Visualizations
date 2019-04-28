@@ -35,6 +35,7 @@ def encircle(x,y, ax=None, **kw):
 # Select data to be encircled
 midwest_encircle_data = midwest.loc[midwest.state=='IN', :]
 
+
 # Draw polygon surrounding vertices
 encircle(midwest_encircle_data.area, midwest_encircle_data.poptotal, ec="k", fc="gold", alpha=0.1)
 encircle(midwest_encircle_data.area, midwest_encircle_data.poptotal, ec="firebrick", fc="none", linewidth=1.5)
