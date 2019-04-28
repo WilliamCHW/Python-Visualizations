@@ -84,5 +84,6 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    
    矩阵图是探索性分析中的最爱，用于理解所有可能的数值变量对之间的关系。 它是双变量分析的必备工具。
   
-  ![]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Image/Pairwise%20Plot.png)
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Image/Pairwise%20Plot2.png)
  Code(代码)：[Pairwise Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Pairwise%20Plot.py)
