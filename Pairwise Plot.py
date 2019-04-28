@@ -1,8 +1,6 @@
 #Pairwise plot is a favorite in exploratory analysis to understand the relationship between all possible pairs of numeric variables.
 # It is a must have tool for bivariate analysis.
 
-
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
