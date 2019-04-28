@@ -36,13 +36,13 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    
  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Image/Each%20regression%20line%20in%20its%20own%20column.png)
  Code(代码)：[Each regression line in its own column.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Each%20regression%20line%20in%20its%20own%20column.py)
- ### 1.4Jittering with stripplot （抖动图）
+ ### 1.4 Jittering with stripplot （抖动图）
    
    Often multiple datapoints have exactly the same X and Y values. As a result, multiple points get plotted over each other and hide. To avoid this, jitter the points slightly so you can visually see them. This is convenient to do using seaborn’s stripplot().
  
    通常，多个数据点具有完全相同的 X 和 Y 值。 结果，多个点绘制会重叠并隐藏。 为避免这种情况，请将数据点稍微抖动，以便您可以直观地看到它们。 使用 seaborn 的 stripplot（） 很方便实现这个功能。
     ![]()
- Code(代码)：
+ Code(代码)：[Jittering with stripplot](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Jittering%20with%20stripplot.py)
  
  ### 1.5 Counts Plot（计数图）
  
@@ -50,7 +50,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
  
    避免点重叠问题的另一个选择是增加点的大小，这取决于该点中有多少点。 因此，点的大小越大，其周围的点的集中度越高。
     ![]()
- Code(代码)：
+ Code(代码)：[Counts Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Counts%20Plot.py)
  ### 1.6 Marginal Histogram（边缘直方图）
  
    Marginal histograms have a histogram along the X and Y axis variables. This is used to visualize the relationship between the X and Y along with the univariate distribution of the X and the Y individually. This plot if often used in exploratory data analysis (EDA).
@@ -74,11 +74,11 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    
    相关图用于直观地查看给定数据框（或二维数组）中所有可能的数值变量对之间的相关度量。
   ![]()
- Code(代码)：
+ Code(代码)：[Correlogram.py]()
  ### 1.9 Pairwise Plot（矩阵图）
  
    Pairwise plot is a favorite in exploratory analysis to understand the relationship between all possible pairs of numeric variables. It is a must have tool for bivariate analysis.
    
    矩阵图是探索性分析中的最爱，用于理解所有可能的数值变量对之间的关系。 它是双变量分析的必备工具。
   ![]()
- Code(代码)：
+ Code(代码)：[Pairwise Plot.py]()
