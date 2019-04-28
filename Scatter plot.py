@@ -7,7 +7,7 @@ import pandas as pd
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import seaborn as sns
-import warnings;
+import warnings
 
 warnings.filterwarnings(action='once')
 
@@ -31,7 +31,7 @@ for i, category in enumerate(categories):
 plt.gca().set(xlim=(0.0, 0.1), ylim=(0, 90000),
               xlabel='Area', ylabel='Population')
 
-plt.xticks(fontsize=12);
+plt.xticks(fontsize=12)
 plt.yticks(fontsize=12)
 plt.title("Scatterplot of Midwest Area vs Population", fontsize=22)
 plt.legend(fontsize=12)
