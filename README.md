@@ -8,8 +8,6 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
     
     散点图是用于研究两个变量之间关系的经典的和基本的图表。 如果数据中有多个组，则可能需要以不同颜色可视化每个组。 在 matplotlib 中，您可以使用 plt.scatterplot（） 方便地执行此操作。
     
-    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/image/test.png)
-    
     1.2Bubble plot with Encircling
     
     Sometimes you want to show a group of points within a boundary to emphasize their importance. In this example, you get the records from the dataframe that should be encircled and pass it to the encircle() described in the code below.
