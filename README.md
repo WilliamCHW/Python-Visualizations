@@ -37,12 +37,16 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
  ![]()
  Code(代码)：
  ### 1.4Jittering with stripplot （抖动图）
+   
+   Often multiple datapoints have exactly the same X and Y values. As a result, multiple points get plotted over each other and hide. To avoid this, jitter the points slightly so you can visually see them. This is convenient to do using seaborn’s stripplot().
  
    通常，多个数据点具有完全相同的 X 和 Y 值。 结果，多个点绘制会重叠并隐藏。 为避免这种情况，请将数据点稍微抖动，以便您可以直观地看到它们。 使用 seaborn 的 stripplot（） 很方便实现这个功能。
     ![]()
  Code(代码)：
  
  ### 1.5Counts Plot（计数图）
+ 
+   Another option to avoid the problem of points overlap is the increase the size of the dot depending on how many points lie in that spot. So, larger the size of the point more is the concentration of points around that.
  
    避免点重叠问题的另一个选择是增加点的大小，这取决于该点中有多少点。 因此，点的大小越大，其周围的点的集中度越高。
     ![]()
@@ -66,13 +70,15 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
  
  ### 1.8Correlogram（相关图）
    
+   Correlogram is used to visually see the correlation metric between all possible pairs of numeric variables in a given dataframe (or 2D array).
    
    相关图用于直观地查看给定数据框（或二维数组）中所有可能的数值变量对之间的相关度量。
   ![]()
  Code(代码)：
  ### 1.9Pairwise Plot（矩阵图）
  
- 
+   Pairwise plot is a favorite in exploratory analysis to understand the relationship between all possible pairs of numeric variables. It is a must have tool for bivariate analysis.
+   
    矩阵图是探索性分析中的最爱，用于理解所有可能的数值变量对之间的关系。 它是双变量分析的必备工具。
   ![]()
  Code(代码)：
