@@ -17,10 +17,6 @@ df_select = df.loc[df.cyl.isin([4, 8]), :]
 
 # Plot
 sns.set_style("white")
-# gridobj = sns.lmplot(x="displ", y="hwy", hue="cyl", data=df_select,
-#                      height=7, aspect=1.6, robust=True, palette='tab10',
-#                      scatter_kws=dict(s=60, linewidths=.7, edgecolors='black'))
-
 gridobj = sns.lmplot(x="displ", y="hwy", hue="cyl", data=df_select,
                      aspect=1.6, robust=True, palette='tab10',
                      scatter_kws=dict(s=60, linewidths=.7, edgecolors='black'))
