@@ -143,3 +143,66 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Image/Ordered%20Bar%20Chart.png)
    Code(代码)：[Ordered Bar Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Code/Ordered%20Bar%20Chart.py)
+   
+  ### 3.2 Lollipop Chart （棒棒糖图）
+  
+  
+  
+  棒棒糖图表以一种视觉上令人愉悦的方式提供与有序条形图类似的目的。
+ 
+ ![]()
+  Code（代码）:[Lollipop Chart.py]()
+  ### 3.3 Dot Plot （包点图）
+  
+  
+  包点图表传达了项目的排名顺序，并且由于它沿水平轴对齐，因此您可以更容易地看到点彼此之间的距离。
+  
+  ![]()
+  Code（代码）:[ Dot Plot.py]()
+  ### 3.4 Slope Chart （坡度图）
+  
+  
+  坡度图最适合比较给定人/项目的“前”和“后”位置。
+  
+  ![]()
+  Code（代码）:[ Slope Chart.py]()
+  ### 3.5 Dumbbell Plot （哑铃图）
+  
+  哑铃图表传达了各种项目的“前”和“后”位置以及项目的等级排序。 如果您想要将特定项目/计划对不同对象的影响可视化，那么它非常有用。
+
+   ![]()
+  Code（代码）:[ Dumbbell Plot.py]()
+  
+  ## 4.Distribution
+  
+  ### 4.1 Histogram for Continuous Variable （连续变量的直方图）
+  
+  直方图显示给定变量的频率分布。 下面的图表示基于类型变量对频率条进行分组，从而更好地了解连续变量和类型变量。
+  
+   ![]()
+  Code（代码）:[ Histogram for Continuous Variable.py]()
+  ### 4.2 Histogram for Categorical Variable （类型变量的直方图）
+  
+  类型变量的直方图显示该变量的频率分布。 通过对条形图进行着色，可以将分布与表示颜色的另一个类型变量相关联。
+  
+   ![]()
+  Code（代码）:[ Histogram for Categorical Variable.py]()
+  ### 4.3 Density Plot （密度图）
+  
+  密度图是一种常用工具，用于可视化连续变量的分布。 通过“响应”变量对它们进行分组，您可以检查 X 和 Y 之间的关系。以下情况用于表示目的，以描述城市里程的分布如何随着汽缸数的变化而变化。
+  
+   ![]()
+  Code（代码）:[ Density Plot.py]()
+  ### 4.4 Density Curves with Histogram （直方密度线图）
+  
+  带有直方图的密度曲线汇集了两个图所传达的集体信息，因此您可以将它们放在一个图中而不是两个图中。
+  
+  ![]()
+  Code（代码）:[ Density Curves with Histogram.py]()
+  ### 4.5 Joy Plot （连续变量的直方图）
+  
+   Joy Plot允许不同组的密度曲线重叠，这是一种可视化大量分组数据的彼此关系分布的好方法。 它看起来很悦目，并清楚地传达了正确的信息。 它可以使用基于 matplotlib 的 joypy 包轻松构建。 （注：需要安装 joypy 库）
+   
+   
+  ### 4.1 Histogram for Continuous Variable （连续变量的直方图）
+  
