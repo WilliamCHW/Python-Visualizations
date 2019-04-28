@@ -1,5 +1,6 @@
 # Python-Visualizations
 There are 50 Visualizations which can you to finish 7 different purposes of data analysis. 
+一共有50组图，可以实现7种不同的数据分析的目的。
  ## 1. Correlation
  ### 1.1 Scatter plot（散点图）
    
