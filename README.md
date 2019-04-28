@@ -151,20 +151,20 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
  ![]()
   Code（代码）:[Lollipop Chart.py]()
   ### 3.3 Dot Plot （包点图）
-  
-    包点图表传达了项目的排名顺序，并且由于它沿水平轴对齐，因此您可以更容易地看到点彼此之间的距离。
+    
+   包点图表传达了项目的排名顺序，并且由于它沿水平轴对齐，因此您可以更容易地看到点彼此之间的距离。
   
   ![]()
   Code（代码）:[ Dot Plot.py]()
   ### 3.4 Slope Chart （坡度图）
   
-    坡度图最适合比较给定人/项目的“前”和“后”位置。
+   坡度图最适合比较给定人/项目的“前”和“后”位置。
   
   ![]()
   Code（代码）:[ Slope Chart.py]()
   ### 3.5 Dumbbell Plot （哑铃图）
-  
-    哑铃图表传达了各种项目的“前”和“后”位置以及项目的等级排序。 如果您想要将特定项目/计划对不同对象的影响可视化，那么它非常有用。
+    
+   哑铃图表传达了各种项目的“前”和“后”位置以及项目的等级排序。 如果您想要将特定项目/计划对不同对象的影响可视化，那么它非常有用。
 
    ![]()
   Code（代码）:[ Dumbbell Plot.py]()
@@ -172,26 +172,26 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   ## 4.Distribution
   
   ### 4.1 Histogram for Continuous Variable （连续变量的直方图）
-  
-    直方图显示给定变量的频率分布。 下面的图表示基于类型变量对频率条进行分组，从而更好地了解连续变量和类型变量。
+    
+   直方图显示给定变量的频率分布。 下面的图表示基于类型变量对频率条进行分组，从而更好地了解连续变量和类型变量。
   
    ![]()
   Code（代码）:[ Histogram for Continuous Variable.py]()
   ### 4.2 Histogram for Categorical Variable （类型变量的直方图）
   
-    类型变量的直方图显示该变量的频率分布。 通过对条形图进行着色，可以将分布与表示颜色的另一个类型变量相关联。
+   类型变量的直方图显示该变量的频率分布。 通过对条形图进行着色，可以将分布与表示颜色的另一个类型变量相关联。
   
    ![]()
   Code（代码）:[ Histogram for Categorical Variable.py]()
   ### 4.3 Density Plot （密度图）
   
-    密度图是一种常用工具，用于可视化连续变量的分布。 通过“响应”变量对它们进行分组，您可以检查 X 和 Y 之间的关系。以下情况用于表示目的，以描述城市里程的分布如何随着汽缸数的变化而变化。
+  密度图是一种常用工具，用于可视化连续变量的分布。 通过“响应”变量对它们进行分组，您可以检查 X 和 Y 之间的关系。以下情况用于表示目的，以描述城市里程的分布如何随着汽缸数的变化而变化。
   
    ![]()
   Code（代码）:[ Density Plot.py]()
   ### 4.4 Density Curves with Histogram （直方密度线图）
   
-    带有直方图的密度曲线汇集了两个图所传达的集体信息，因此您可以将它们放在一个图中而不是两个图中。
+  带有直方图的密度曲线汇集了两个图所传达的集体信息，因此您可以将它们放在一个图中而不是两个图中。
   
   ![]()
   Code（代码）:[ Density Curves with Histogram.py]()
@@ -222,7 +222,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   Code（代码）:[ Dot and Box Plot.py]()
   ### 4.9 Violin Plot （小提琴图）
   
-    小提琴图是箱形图在视觉上令人愉悦的替代品。 小提琴的形状或面积取决于它所持有的观察次数。 但是，小提琴图可能更难以阅读，并且在专业设置中不常用。
+  小提琴图是箱形图在视觉上令人愉悦的替代品。 小提琴的形状或面积取决于它所持有的观察次数。 但是，小提琴图可能更难以阅读，并且在专业设置中不常用。
   
   ![]()
   Code（代码）:[ Violin Plot.py]()
@@ -243,7 +243,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
 ## 5. Composition （组成）
 ### 5.1 Waffle Chart （华夫饼图）
 
-  可以使用 pywaffle包 创建华夫饼图，并用于显示更大群体中的组的组成。（注：需要安装 pywaffle 库）
+可以使用 pywaffle包 创建华夫饼图，并用于显示更大群体中的组的组成。（注：需要安装 pywaffle 库）
 
    ![]()
   Code（代码）:[Waffle Chart.py]()
@@ -275,7 +275,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   Code（代码）:[Time Series Plott.py]()
 ### 6.2 Time Series with Peaks and Troughs Annotated （带波峰波谷标记的时序图）
 
-  下面的时间序列绘制了所有峰值和低谷，并注释了所选特殊事件的发生。
+下面的时间序列绘制了所有峰值和低谷，并注释了所选特殊事件的发生。
 
 ![]()
   Code（代码）:[Time Series with Peaks and Troughs Annotated.py]()
@@ -307,13 +307,13 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   Code（代码）:[Multiple Time Series.py]()
 ### 6.7 Plotting with different scales using secondary Y axis （使用辅助 Y 轴来绘制不同范围的图形）
 
-  如果要显示在同一时间点测量两个不同数量的两个时间序列，则可以在右侧的辅助Y轴上再绘制第二个系列。
+ 如果要显示在同一时间点测量两个不同数量的两个时间序列，则可以在右侧的辅助Y轴上再绘制第二个系列。
   
   ![]()
   Code（代码）:[Plotting with different scales using secondary Y axis.py]()
 ### 6.8 Time Series with Error Bands （带有误差带的时间序列）
 
-  如果您有一个时间序列数据集，每个时间点（日期/时间戳）有多个观测值，则可以构建带有误差带的时间序列。 您可以在下面看到一些基于每天不同时间订单的示例。 另一个关于45天持续到达的订单数量的例子。在该方法中，订单数量的平均值由白线表示。 并且计算95％置信区间并围绕均值绘制。
+ 如果您有一个时间序列数据集，每个时间点（日期/时间戳）有多个观测值，则可以构建带有误差带的时间序列。 您可以在下面看到一些基于每天不同时间订单的示例。 另一个关于45天持续到达的订单数量的例子。在该方法中，订单数量的平均值由白线表示。 并且计算95％置信区间并围绕均值绘制。
   
   ![]()
   Code（代码）:[Time Series with Error Bands.py]()
@@ -345,7 +345,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
 
 ### 7.1 Dendrogram （树状图）
 
-  树形图基于给定的距离度量将相似的点组合在一起，并基于点的相似性将它们组织在树状链接中。
+树形图基于给定的距离度量将相似的点组合在一起，并基于点的相似性将它们组织在树状链接中。
   
   ![]()
   Code（代码）:[Dendrogram.py]()
@@ -358,7 +358,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   
  ### 7.3 Andrews Curve （安德鲁斯曲线） 
  
-   安德鲁斯曲线有助于可视化是否存在基于给定分组的数字特征的固有分组。 如果要素（数据集中的列）无法区分组（cyl），那么这些线将不会很好地隔离，如下所示。
+  安德鲁斯曲线有助于可视化是否存在基于给定分组的数字特征的固有分组。 如果要素（数据集中的列）无法区分组（cyl），那么这些线将不会很好地隔离，如下所示。
    
   ![]()
   Code（代码）:[Cluster Plot.py]()
