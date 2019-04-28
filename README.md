@@ -35,7 +35,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    或者，可以在其每列中显示每个组的最佳拟合线。 可以通过在 sns.lmplot() 中设置 col=groupingcolumn 参数来实现。
    
  ![]()
- Code(代码)：
+ Code(代码)：[Each regression line in its own column.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Each%20regression%20line%20in%20its%20own%20column.py)
  ### 1.4Jittering with stripplot （抖动图）
    
    Often multiple datapoints have exactly the same X and Y values. As a result, multiple points get plotted over each other and hide. To avoid this, jitter the points slightly so you can visually see them. This is convenient to do using seaborn’s stripplot().
