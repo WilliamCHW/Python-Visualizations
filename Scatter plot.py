@@ -11,7 +11,6 @@ import warnings;
 
 warnings.filterwarnings(action='once')
 
-
 # Import dataset
 midwest = pd.read_csv("https://raw.githubusercontent.com/selva86/datasets/master/midwest_filter.csv")
 
