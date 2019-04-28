@@ -42,7 +42,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
  
    通常，多个数据点具有完全相同的 X 和 Y 值。 结果，多个点绘制会重叠并隐藏。 为避免这种情况，请将数据点稍微抖动，以便您可以直观地看到它们。 使用 seaborn 的 stripplot（） 很方便实现这个功能。
  
- ![]()
+ ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Image/Jittering%20with%20stripplot.png)
  Code(代码)：[Jittering with stripplot](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Jittering%20with%20stripplot.py)
  
  ### 1.5 Counts Plot（计数图）
@@ -50,7 +50,8 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    Another option to avoid the problem of points overlap is the increase the size of the dot depending on how many points lie in that spot. So, larger the size of the point more is the concentration of points around that.
  
    避免点重叠问题的另一个选择是增加点的大小，这取决于该点中有多少点。 因此，点的大小越大，其周围的点的集中度越高。
-    ![]()
+    
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Image/Counts%20Plot.png)
  Code(代码)：[Counts Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Counts%20Plot.py)
  ### 1.6 Marginal Histogram（边缘直方图）
  
