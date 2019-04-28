@@ -141,5 +141,5 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    
    有序条形图有效地传达了项目的排名顺序。 但是，在图表上方添加度量标准的值，用户可以从图表本身获取精确信息。
    
-   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Image/Ordered%20Bar20%Chart.py)
-   Code(代码)：[Ordered Bar Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Code/Ordered%20Bar20%Chart.py)
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Image/Ordered%20Bar%20Chart.png)
+   Code(代码)：[Ordered Bar Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Code/Ordered%20Bar%20Chart.py)
