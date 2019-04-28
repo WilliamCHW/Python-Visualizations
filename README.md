@@ -133,3 +133,13 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   
   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Deviation_Image/Area%20Chart.png)
   Code (代码): [Area Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Deviation_Code/Area%20Chart.py)
+  
+  ## 3. Ranking（排序）
+  ### 3.1 Ordered Bar Chart（有序条形图）
+  
+   Ordered bar chart conveys the rank order of the items effectively. But adding the value of the metric above the chart, the user gets the precise information from the chart itself.
+   
+   有序条形图有效地传达了项目的排名顺序。 但是，在图表上方添加度量标准的值，用户可以从图表本身获取精确信息。
+   
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Image/Ordered%20Bar20%Chart.py)
+   Code(代码)：[Ordered Bar Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Code/Ordered%20Bar20%Chart.py)
