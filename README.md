@@ -21,6 +21,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
     
  ### 1.3 Regression plot  
  #### 1.3.1 Scatter plot with line of best fit
+ Code(代码)：[Scatter plot with line of best fit.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Scatter%20plot%20with%20linear%20regression%20line%20of%20best%20fit.py)
  #### 1.3.2 Each regression line in its own column
  ### 1.4Jittering with stripplot
  ### 1.5Counts Plot
