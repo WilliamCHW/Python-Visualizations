@@ -6,8 +6,6 @@ import seaborn as sns
 import warnings
 
 
-
-
 # Import Dataset
 df = pd.read_csv("https://github.com/selva86/datasets/raw/master/mtcars.csv")
 
