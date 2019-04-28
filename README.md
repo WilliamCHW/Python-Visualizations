@@ -25,9 +25,22 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
  #### 1.3.2 Each regression line in its own column
  ### 1.4Jittering with stripplot
  ### 1.5Counts Plot
- ### 1.6Marginal Histogram
- []!()
+ ### 1.6 Marginal Histogram（边缘直方图）
+ 
+   Marginal histograms have a histogram along the X and Y axis variables. This is used to visualize the relationship between the X and Y along with the univariate distribution of the X and the Y individually. This plot if often used in exploratory data analysis (EDA).
+   
+   边缘直方图具有沿 X 和 Y 轴变量的直方图。 这用于可视化 X 和 Y 之间的关系以及单独的 X 和 Y 的单变量分布。 这种图经常用于探索性数据分析（EDA）。
+   
+ ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Image/Marginal%20Histogram.png)
  Code(代码)：[Marginal Histogram.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Marginal%20Histogram.py)
- ### 1.7Marginal Boxplot
+ ### 1.7 Marginal Boxplot（边缘箱形图）
+ 
+   Marginal boxplot serves a similar purpose as marginal histogram. However, the boxplot helps to pinpoint the median, 25th and 75th percentiles of the X and the Y.
+   
+   边缘箱图与边缘直方图具有相似的用途。 然而，箱线图有助于精确定位 X 和 Y 的中位数、第25和第75百分位数。
+   
+   
+   Code (代码):[]()
+ 
  ### 1.8Correlogram
  ### 1.9Pairwise Plot
