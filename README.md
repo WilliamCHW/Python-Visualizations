@@ -15,6 +15,9 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    Sometimes you want to show a group of points within a boundary to emphasize their importance. In this example, you get the records from the dataframe that should be encircled and pass it to the encircle() described in the code below.
     
    有时，您希望在边界内显示一组点以强调其重要性。 在这个例子中，你从数据框中获取记录，并用下面代码中描述的 encircle（） 来使边界显示出来。
+   
+   
+   Code(代码)：[Bubble plot with Encircling.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Bubble%20plot%20with%20Encircling.py)
     
  ### 1.3 Regression plot  
  #### 1.3.1 Scatter plot with line of best fit
