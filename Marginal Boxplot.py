@@ -34,6 +34,7 @@ ax_right.set(ylabel='')
 # Main Title, Xlabel and YLabel
 ax_main.set(title='Scatterplot with Histograms \n displ vs hwy', xlabel='displ', ylabel='hwy')
 
+
 # Set font size of different components
 ax_main.title.set_fontsize(20)
 for item in ([ax_main.xaxis.label, ax_main.yaxis.label] + ax_main.get_xticklabels() + ax_main.get_yticklabels()):
