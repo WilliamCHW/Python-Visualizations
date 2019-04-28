@@ -26,7 +26,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    
    如果你想了解两个变量如何相互改变，那么最佳拟合线就是常用的方法。 下图显示了数据中各组之间最佳拟合线的差异。 要禁用分组并仅为整个数据集绘制一条最佳拟合线，请从下面的 sns.lmplot（）调用中删除 hue ='cyl'参数。
  
- ![]()
+ ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Image/Scatter%20plot%20with%20line%20of%20best%20fit.png)
  Code(代码)：[Scatter plot with line of best fit.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Scatter%20plot%20with%20linear%20regression%20line%20of%20best%20fit.py)
  #### 1.3.2 Each regression line in its own column（针对每列绘制线性回归线）
  
