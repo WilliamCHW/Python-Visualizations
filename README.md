@@ -99,33 +99,37 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    如果您想根据单个指标查看项目的变化情况，并可视化此差异的顺序和数量，那么散型条形图 （Diverging Bars） 是一个很好的工具。 它有助于快速区分数据中组的性能，并且非常直观，并且可以立即传达这一点。
    
   ![]()
-  Code (代码): []()
+  Code (代码): [Diverging Bars.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Deviation_Code/Diverging%20Bars.py)
   
  ### 2.2 Diverging Texts（发散型文本）
    
    Diverging texts is similar to diverging bars and it preferred if you want to show the value of each items within the chart in a nice and presentable way.
  
    发散型文本 （Diverging Texts）与发散型条形图 （Diverging Bars）相似，如果你想以一种漂亮和可呈现的方式显示图表中每个项目的价值，就可以使用这种方法。
-  ![]()
-  Code (代码): []()
+ 
+ ![]()
+  Code (代码): [Diverging Texts.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Deviation_Code/Diverging%20Texts.py)
  ### 2.3 Diverging Dot Plot（发散型包点图）
  
    Divering dot plot is also similar to the diverging bars. However compared to diverging bars, the absence of bars reduces the amount of contrast and disparity between the groups.
  
    发散型包点图 （Diverging Dot Plot）也类似于发散型条形图 （Diverging Bars）。 然而，与发散型条形图 （Diverging Bars）相比，条的缺失减少了组之间的对比度和差异。
+  
   ![]()
-  Code (代码): []()
+  Code (代码): [Diverging Dot Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Deviation_Code/Diverging%20Dot%20Plot.py)
  ### 2.4 Diverging Lollipop Chart with Markers（带标记的发散型棒棒糖图）
  
    Lollipop with markers provides a flexible way of visualizing the divergence by laying emphasis on any significant datapoints you want to bring attention to and give reasoning within the chart appropriately.
  
    带标记的棒棒糖图通过强调您想要引起注意的任何重要数据点并在图表中适当地给出推理，提供了一种对差异进行可视化的灵活方式。
+  
   ![]()
-  Code (代码): []()
+  Code (代码): [Diverging Lollipop Chart with Markers.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Deviation_Code/Diverging%20Lollipop%20Chart%20with%20Markers.py)
  ### 2.5 Area Chart（面积图）
  
    By coloring the area between the axis and the lines, the area chart throws more emphasis not just on the peaks and troughs but also the duration of the highs and lows. The longer the duration of the highs, the larger is the area under the line.
 
    通过对轴和线之间的区域进行着色，面积图不仅强调峰和谷，而且还强调高点和低点的持续时间。 高点持续时间越长，线下面积越大。
+  
   ![]()
-  Code (代码): []()
+  Code (代码): [Area Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Deviation_Code/Area%20Chart.py)
