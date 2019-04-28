@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings; warnings.simplefilter('ignore')
 
-
 # Sometimes you want to show a group of points within a boundary to emphasize their importance.
 #  In this example, you get the records from the dataframe that should be encircled and pass it to the encircle() described in the code below.
 
