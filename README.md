@@ -76,7 +76,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    相关图用于直观地查看给定数据框（或二维数组）中所有可能的数值变量对之间的相关度量。
   
   ![]()
- Code(代码)：[Correlogram.py]((https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlogram.py)
+ Code(代码)：[Correlogram.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Correllogram.py)
  ### 1.9 Pairwise Plot（矩阵图）
  
    Pairwise plot is a favorite in exploratory analysis to understand the relationship between all possible pairs of numeric variables. It is a must have tool for bivariate analysis.
@@ -84,4 +84,4 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    矩阵图是探索性分析中的最爱，用于理解所有可能的数值变量对之间的关系。 它是双变量分析的必备工具。
   
   ![]()
- Code(代码)：[Pairwise Plot.py]((https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Pairwise%20Plot.py)
+ Code(代码)：[Pairwise Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Pairwise%20Plot.py)
