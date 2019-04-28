@@ -1,6 +1,7 @@
-# Import Data
+# Scatteplot is a classic and fundamental plot used to study the relationship between two variables.
+# If you have multiple groups in your data you may want to visualise each group in a different color.
+# In matplotlib, you can conveniently do this using plt.scatterplot()
 
-# !pip install brewer2mpl
 import numpy as np
 import pandas as pd
 import matplotlib as mpl
@@ -9,10 +10,6 @@ import seaborn as sns
 import warnings;
 
 warnings.filterwarnings(action='once')
-
-# Scatteplot is a classic and fundamental plot used to study the relationship between two variables.
-# If you have multiple groups in your data you may want to visualise each group in a different color.
-# In matplotlib, you can conveniently do this using plt.scatterplot()
 
 
 # Import dataset
