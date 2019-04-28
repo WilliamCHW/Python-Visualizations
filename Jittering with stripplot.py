@@ -3,6 +3,7 @@
 # To avoid this, jitter the points slightly so you can visually see them.
 # This is convenient to do using seaborn’s stripplot().
 
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
