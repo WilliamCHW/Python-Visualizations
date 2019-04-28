@@ -41,7 +41,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    边缘箱图与边缘直方图具有相似的用途。 然而，箱线图有助于精确定位 X 和 Y 的中位数、第25和第75百分位数。
    
    
-   Code (代码):[]()
+   Code (代码):[Marginal Boxplot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Correlation_Code/Marginal%20Boxplot.py)
  
  ### 1.8Correlogram
  ### 1.9Pairwise Plot
