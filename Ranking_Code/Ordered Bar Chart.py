@@ -30,6 +30,6 @@ p1 = patches.Rectangle((.57, -0.005), width=.33, height=.13, alpha=.1, facecolor
 p2 = patches.Rectangle((.124, -0.005), width=.446, height=.13, alpha=.1, facecolor='red', transform=fig.transFigure)
 # ax.add_artist(p1)
 # ax.add_artist(p2)
-plt.gca().add_artist(p1)
-plt.gca().add_artist(p2)
+fig.add_artist(p1)
+fig.add_artist(p2)
 plt.show()
