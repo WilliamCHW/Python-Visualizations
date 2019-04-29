@@ -3,6 +3,8 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
 
 一共有50组图，可以实现7种不同的数据分析的目的。
 
+`notice: matplotlib:version #> 3.0.0 seaborn:version #> 0.9.0`
+
  ## 1. Correlation
  ### 1.1 Scatter plot（散点图）
    
