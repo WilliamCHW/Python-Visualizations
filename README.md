@@ -315,7 +315,7 @@ The waffle chart can be created using the pywaffle package and is used to show t
   时间序列图用于显示给定度量随时间变化的方式。 在这里，您可以看到 1949年 至 1969年间航空客运量的变化情况。
   
   ![]()
-  Code（代码）:[Time Series Plott.py]()
+  Code（代码）: [Time Series Plott.py]()
 ### 6.2 Time Series with Peaks and Troughs Annotated （带波峰波谷标记的时序图）
 
   The below time series plots all the the peaks and troughs and annotates the occurence of selected special events.
@@ -323,7 +323,7 @@ The waffle chart can be created using the pywaffle package and is used to show t
   下面的时间序列绘制了所有峰值和低谷，并注释了所选特殊事件的发生。
 
 ![]()
-  Code（代码）:[Time Series with Peaks and Troughs Annotated.py]()
+  Code（代码）: [Time Series with Peaks and Troughs Annotated.py]()
 ### 6.3 Autocorrelation (ACF) and Partial Autocorrelation (PACF) Plot （自相关和部分自相关图）
 
   The ACF plot shows the correlation of the time series with its own lags. Each vertical line (on the autocorrelation plot) represents the correlation between the series and its lag starting from lag 0. The blue shaded region in the plot is the significance level. Those lags that lie above the blue line are the significant lags.
@@ -337,7 +337,7 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   自相关图（ACF图）显示时间序列与其自身滞后的相关性。 每条垂直线（在自相关图上）表示系列与滞后0之间的滞后之间的相关性。图中的蓝色阴影区域是显着性水平。 那些位于蓝线之上的滞后是显着的滞后。那么如何解读呢？对于空乘旅客，我们看到多达14个滞后跨越蓝线，因此非常重要。 这意味着，14年前的航空旅客交通量对今天的交通状况有影响。PACF在另一方面显示了任何给定滞后（时间序列）与当前序列的自相关，但是删除了滞后的贡献。
 
 ![]()
-  Code（代码）:[ACF and PACF Plot.py]()
+  Code（代码）: [ACF and PACF Plot.py]()
 
 
 ### 6.4 Cross Correlation plot （交叉相关图）
