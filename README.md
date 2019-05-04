@@ -430,16 +430,16 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   
   树形图基于给定的距离度量将相似的点组合在一起，并基于点的相似性将它们组织在树状链接中。
   
-  ![]()
-  Code（代码）:[Dendrogram.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Image/Dendrogram.png)
+  Code（代码）:[Dendrogram.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Code/Dendrogram.py)
 ### 7.2 Cluster Plot （簇状图） 
 
   Cluster Plot canbe used to demarcate points that belong to the same cluster. Below is a representational example to group the US states into 5 groups based on the USArrests dataset. This cluster plot uses the ‘murder’ and ‘assault’ columns as X and Y axis. Alternately you can use the first to principal components as rthe X and Y axis.
   
   簇状图可用于划分属于同一群集的点。 下面是根据USArrests数据集将美国各州分为5组的代表性示例。 此图使用“谋杀”和“攻击”列作为X和Y轴。 或者，您可以将第一个到主要组件用作X轴和Y轴。
   
-  ![]()
-  Code（代码）:[Cluster Plot.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Image/Cluster%20Plot.png)
+  Code（代码）:[Cluster Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Code/Cluster%20Plot.py)
   
  ### 7.3 Andrews Curve （安德鲁斯曲线） 
  
@@ -447,13 +447,13 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   
   安德鲁斯曲线有助于可视化是否存在基于给定分组的数字特征的固有分组。 如果要素（数据集中的列）无法区分组（cyl），那么这些线将不会很好地隔离，如下所示。
    
-  ![]()
-  Code（代码）:[Cluster Plot.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Image/Andrews%20Curve.png)
+  Code（代码）:[Cluster Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Code/Andrews%20Curve.py)
  ### 7.4 Parallel Coordinates （平行坐标）
  
    Parallel coordinates helps to visualize if a feature helps to segregate the groups effectively. If a segregation is effected, that feature is likely going to be very useful in predicting that group.
    
    平行坐标有助于可视化特征是否有助于有效地隔离组。 如果实现隔离，则该特征可能在预测该组时非常有用。
    
-   ![]()
-  Code（代码）:[Parallel Coordinates.py]()
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Image/Parallel%20Coordinates.png)
+  Code（代码）:[Parallel Coordinates.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Code/Parallel%20Coordinates.py)
