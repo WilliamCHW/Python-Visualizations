@@ -189,48 +189,48 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
     
    直方图显示给定变量的频率分布。 下面的图表示基于类型变量对频率条进行分组，从而更好地了解连续变量和类型变量。
   
-   ![]()
-  Code（代码）:[ Histogram for Continuous Variable.py]()
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Histogram%20for%20Continuous%20Variable.png)
+  Code（代码）:[ Histogram for Continuous Variable.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Histogram%20for%20Continuous%20Variable.py)
   ### 4.2 Histogram for Categorical Variable （类型变量的直方图）
   
   The histogram of a categorical variable shows the frequency distribution of a that variable. By coloring the bars, you can visualize the distribution in connection with another categorical variable representing the colors.
   
    类型变量的直方图显示该变量的频率分布。 通过对条形图进行着色，可以将分布与表示颜色的另一个类型变量相关联。
   
-   ![]()
-  Code（代码）:[ Histogram for Categorical Variable.py]()
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Histogram%20for%20Categorical%20Variable.png)
+  Code（代码）:[ Histogram for Categorical Variable.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Histogram%20for%20Categorical%20Variable.py)
   ### 4.3 Density Plot （密度图）
   
   Density plots are a commonly used tool visualise the distribution of a continuous variable. By grouping them by the ‘response’ variable, you can inspect the relationship between the X and the Y. The below case if for representational purpose to describe how the distribution of city mileage varies with respect the number of cylinders.
   
   密度图是一种常用工具，用于可视化连续变量的分布。 通过“响应”变量对它们进行分组，您可以检查 X 和 Y 之间的关系。以下情况用于表示目的，以描述城市里程的分布如何随着汽缸数的变化而变化。
   
-   ![]()
-  Code（代码）:[ Density Plot.py]()
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Density%20plot.png)
+  Code（代码）:[ Density Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Density%20plot.py)
   ### 4.4 Density Curves with Histogram （直方密度线图）
   
   Density curve with histogram brings together the collective information conveyed by the two plots so you can have them both in a single figure instead of two.
   
   带有直方图的密度曲线汇集了两个图所传达的集体信息，因此您可以将它们放在一个图中而不是两个图中。
   
-  ![]()
-  Code（代码）:[ Density Curves with Histogram.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Density%20Curves%20with%20Histogram.png)
+  Code（代码）:[ Density Curves with Histogram.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Density%20Curves%20with%20Histogram.py)
   ### 4.5 Joy Plot （连续变量的直方图）
   
    Joy Plot allows the density curves of different groups to overlap, it is a great way to visualize the distribution of a larger number of groups in relation to each other. It looks pleasing to the eye and conveys just the right information clearly. It can be easily built using the joypy package which is based on matplotlib.
   
    Joy Plot允许不同组的密度曲线重叠，这是一种可视化大量分组数据的彼此关系分布的好方法。 它看起来很悦目，并清楚地传达了正确的信息。 它可以使用基于 matplotlib 的 joypy 包轻松构建。 （注：需要安装 joypy 库）
    
-   ![]()
-  Code（代码）:[ Joy Plot.py]()
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Joy%20plot.png)
+  Code（代码）:[ Joy Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Joy%20plot.py)
   ### 4.6 Distributed Dot Plot （分布式包点图）
   
    Distributed dot plot shows the univariate distribution of points segmented by groups. The darker the points, more is the concentration of data points in that region. By coloring the median differently, the real positioning of the groups becomes apparent instantly.
    
    分布式包点图显示按组分割的点的单变量分布。 点数越暗，该区域的数据点集中度越高。 通过对中位数进行不同着色，组的真实定位立即变得明显。
    
-   ![]()
-  Code（代码）:[ Distributed Dot Plot.py]()
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Distributed%20Dot%20Plot.png)
+  Code（代码）:[ Distributed Dot Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Distributed%20Dot%20Plot.png)
   
   ### 4.7 Box Plot （分布式包点图）
   
@@ -238,32 +238,32 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    
    箱形图是一种可视化分布的好方法，记住中位数、第25个第45个四分位数和异常值。 但是，您需要注意解释可能会扭曲该组中包含的点数的框的大小。 因此，手动提供每个框中的观察数量可以帮助克服这个缺点。例如，左边的前两个框具有相同大小的框，即使它们的值分别是5和47。 因此，写入该组中的观察数量是必要的。
 
-![]()
-  Code（代码）:[ Box Plot.py]()
+ ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Box%20plot.png)
+  Code（代码）:[ Box Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Box%20plot.py)
   ### 4.8 Dot and Box Plot （包点和箱形图）
   
   Dot + Box plot Conveys similar information as a boxplot split in groups. The dots, in addition, gives a sense of how many data points lie within each group.
   
   包点+箱形图 （Dot and Box Plot）传达类似于分组的箱形图信息。 此外，这些点可以了解每组中有多少数据点。
 
-![]()
-  Code（代码）:[ Dot and Box Plot.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Dot%20and%20Box%20Plot.png)
+  Code（代码）:[ Dot and Box Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Dot%20and%20Box%20Plot.py)
   ### 4.9 Violin Plot （小提琴图）
   
    Violin plot is a visually pleasing alternative to box plots. The shape or area of the violin depends on the number of observations it holds. However, the violin plots can be harder to read and it not commonly used in professional settings.
   
    小提琴图是箱形图在视觉上令人愉悦的替代品。 小提琴的形状或面积取决于它所持有的观察次数。 但是，小提琴图可能更难以阅读，并且在专业设置中不常用。
   
-  ![]()
-  Code（代码）:[ Violin Plot.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Violin%20plot.png)
+  Code（代码）:[ Violin Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Violin%20plot.py)
   ### 4.10 Population Pyramid （人口金字塔）
   
    Population pyramid can be used to show either the distribution of the groups ordered by the volumne. Or it can also be used to show the stage-by-stage filtering of the population as it is used below to show how many people pass through each stage of a marketing funnel.
    
    人口金字塔可用于显示由数量排序的组的分布。 或者它也可以用于显示人口的逐级过滤，因为它在下面用于显示有多少人通过营销渠道的每个阶段。
   
-  ![]()
-  Code（代码）:[Population Pyramid.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Population%20Pyramid.png)
+  Code（代码）:[Population Pyramid.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Population%20Pyramid.py)
   
   ### 4.11 Categorical Plots （分类图）
   
@@ -271,8 +271,8 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   
   由 seaborn库 提供的分类图可用于可视化彼此相关的2个或更多分类变量的计数分布。
   
-   ![]()
-  Code（代码）:[Categorical Plots.py]()
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Categorical%20Plots.png)
+  Code（代码）:[Categorical Plots.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Categorical%20Plots.plots)
 ## 5. Composition （组成）
 ### 5.1 Waffle Chart （华夫饼图）
 
