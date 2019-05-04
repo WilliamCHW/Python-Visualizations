@@ -295,17 +295,17 @@ The waffle chart can be created using the pywaffle package and is used to show t
   
   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Pie%20Chart_One.png)
   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Pie%20Chart_Two.png)
-  Code（代码）:[Pie Chart One.py](![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_One.png))
+  Code（代码）:[Pie Chart One.py]((https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_One.py))
  
-  Code（代码）:[Pie Chart Two.py](![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_Two.png))
+  Code（代码）:[Pie Chart Two.py]((https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_Two.py))
 ### 5.3 Treemap （树形图）
 
   Tree map is similar to a pie chart and it does a better work without misleading the contributions by each group.
 
   树形图类似于饼图，它可以更好地完成工作而不会误导每个组的贡献。（注：需要安装 squarify 库）
 
-![]()
-  Code（代码）:[Treemap.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Treemap.png)
+  Code（代码）:[Treemap.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Treemap.py)
 ### 5.4 Bar Chart （条形图）
 
   Bar chart is a classic way of visualizing items based on counts or any given metric. In below chart, I have used a different color for each item, but you might typically want to pick one color for all items unless you to color them by groups. The color names get stored inside all_colors in the code below. You can change the color of the bars by setting the color parameter in plt.plot().
