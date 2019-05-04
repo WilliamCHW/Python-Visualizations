@@ -154,32 +154,32 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    
    棒棒糖图表以一种视觉上令人愉悦的方式提供与有序条形图类似的目的。
  
- ![]()
-  Code（代码）:[Lollipop Chart.py]()
+ ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Image/Lollipop%20Chart.png)
+  Code（代码）:[Lollipop Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Code/Lollipop%20Chart.png)
   ### 3.3 Dot Plot （包点图）
    
    The dot plot conveys the rank order of the items. And since it is aligned along the horizontal axis, you can visualize how far the points are from each other more easily.
    
    包点图表传达了项目的排名顺序，并且由于它沿水平轴对齐，因此您可以更容易地看到点彼此之间的距离。
   
-  ![]()
-  Code（代码）:[ Dot Plot.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Image/Dot%20Plot.png)
+  Code（代码）:[ Dot Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Code/Dot%20Plot.png)
   ### 3.4 Slope Chart （坡度图）
   
    Slope chart is most suitable for comparing the ‘Before’ and ‘After’ positions of a given person/item.
    
    坡度图最适合比较给定人/项目的“前”和“后”位置。
   
-  ![]()
-  Code（代码）:[ Slope Chart.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Image/Slope%20Chart.png)
+  Code（代码）:[ Slope Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Code/Slope%20Chart.png)
   ### 3.5 Dumbbell Plot （哑铃图）
     
    Dumbbell plot conveys the ‘before’ and ‘after’ positions of various items along with the rank ordering of the items. Its very useful if you want to visualize the effect of a particular project / initiative on different objects.
    
    哑铃图表传达了各种项目的“前”和“后”位置以及项目的等级排序。 如果您想要将特定项目/计划对不同对象的影响可视化，那么它非常有用。
 
-   ![]()
-  Code（代码）:[ Dumbbell Plot.py]()
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Image/Dumbbell%20Plot.png)
+  Code（代码）:[ Dumbbell Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Ranking_Code/Dumbbell%20Plot.png)
   
   ## 4.Distribution
   
