@@ -312,8 +312,8 @@ The waffle chart can be created using the pywaffle package and is used to show t
 
   条形图是基于计数或任何给定指标可视化项目的经典方式。 在下面的图表中，我为每个项目使用了不同的颜色，但您通常可能希望为所有项目选择一种颜色，除非您按组对其进行着色。 颜色名称存储在下面代码中的all_colors中。 您可以通过在 plt.plot（）中设置颜色参数来更改条的颜色。
 
-![]()
-  Code（代码）:[Bar Chart.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Bar%20Chart.png)
+  Code（代码）:[Bar Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Bar%20Chart.py)
 ## 6. Change（变化）
 
 ### 6.1 Time Series Plott （时间序列图）
