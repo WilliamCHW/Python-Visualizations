@@ -281,8 +281,11 @@ The waffle chart can be created using the pywaffle package and is used to show t
 
 可以使用 pywaffle包 创建华夫饼图，并用于显示更大群体中的组的组成。（注：需要安装 pywaffle 库）
 
-   ![]()
-  Code（代码）:[Waffle Chart.py]()
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Waffle%20Chart_One.png)
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Waffle%20Chart_Two.png)
+  Code（代码）:[Waffle Chart One.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Waffle%20Chart_One.py)
+  
+  Code（代码）:[Waffle Chart One.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Waffle%20Chart_Two.py)
 ### 5.2 Pie Chart （饼图）
 
   Pie chart is a classic way to show the composition of groups. However, its not generally advisable to use nowadays because the area of the pie portions can sometimes become misleading. So, if you are to use pie chart, its highly recommended to explicitly write down the percentage or numbers for each portion of the pie.
