@@ -272,7 +272,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   由 seaborn库 提供的分类图可用于可视化彼此相关的2个或更多分类变量的计数分布。
   
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Categorical%20Plots.png)
-  Code（代码）:[Categorical Plots.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Categorical%20Plots.plots)
+  Code（代码）:[Categorical Plots.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Categorical%20Plots.py)
 ## 5. Composition （组成）
 ### 5.1 Waffle Chart （华夫饼图）
 
