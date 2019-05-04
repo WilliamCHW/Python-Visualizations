@@ -273,7 +273,8 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Categorical%20Plots_One.png)
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Categorical%20Plots_Two.png)
-  Code（代码）:[Categorical Plots.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Categorical%20Plots.py)
+ 
+ Code（代码）:[Categorical Plots.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Categorical%20Plots.py)
 ## 5. Composition （组成）
 ### 5.1 Waffle Chart （华夫饼图）
 
@@ -283,9 +284,9 @@ The waffle chart can be created using the pywaffle package and is used to show t
 
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Waffle%20Chart_One.png)
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Waffle%20Chart_Two.png)
-  Code（代码）:[Waffle Chart One.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Waffle%20Chart_One.py)
+  Code（代码）:[Waffle Chart One.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Waffle%20Chart_One.py)
   
-  Code（代码）:[Waffle Chart One.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Waffle%20Chart_Two.py)
+  Code（代码）:[Waffle Chart Two.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Waffle%20Chart_Two.py)
 ### 5.2 Pie Chart （饼图）
 
   Pie chart is a classic way to show the composition of groups. However, its not generally advisable to use nowadays because the area of the pie portions can sometimes become misleading. So, if you are to use pie chart, its highly recommended to explicitly write down the percentage or numbers for each portion of the pie.
