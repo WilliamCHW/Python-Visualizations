@@ -293,8 +293,11 @@ The waffle chart can be created using the pywaffle package and is used to show t
 
   饼图是显示组成的经典方式。 然而，现在通常不建议使用它，因为馅饼部分的面积有时会变得误导。 因此，如果您要使用饼图，强烈建议明确记下饼图每个部分的百分比或数字。
   
-  ![]()
-  Code（代码）:[Pie Chart.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Pie%20Chart_One.png)
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Pie%20Chart_Two.png)
+  Code（代码）:[Pie Chart One.py](![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_One.png))
+ 
+  Code（代码）:[Pie Chart Two.py](![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_Two.png))
 ### 5.3 Treemap （树形图）
 
   Tree map is similar to a pie chart and it does a better work without misleading the contributions by each group.
