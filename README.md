@@ -221,8 +221,8 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   
    Joy Plot允许不同组的密度曲线重叠，这是一种可视化大量分组数据的彼此关系分布的好方法。 它看起来很悦目，并清楚地传达了正确的信息。 它可以使用基于 matplotlib 的 joypy 包轻松构建。 （注：需要安装 joypy 库）
    
-   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Joy%20plot.png)
-  Code（代码）:[ Joy Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Joy%20plot.py)
+   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Joy%20Plot.png)
+  Code（代码）:[ Joy Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Joy%20Plot.py)
   ### 4.6 Distributed Dot Plot （分布式包点图）
   
    Distributed dot plot shows the univariate distribution of points segmented by groups. The darker the points, more is the concentration of data points in that region. By coloring the median differently, the real positioning of the groups becomes apparent instantly.
@@ -238,8 +238,8 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    
    箱形图是一种可视化分布的好方法，记住中位数、第25个第45个四分位数和异常值。 但是，您需要注意解释可能会扭曲该组中包含的点数的框的大小。 因此，手动提供每个框中的观察数量可以帮助克服这个缺点。例如，左边的前两个框具有相同大小的框，即使它们的值分别是5和47。 因此，写入该组中的观察数量是必要的。
 
- ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Box%20plot.png)
-  Code（代码）:[ Box Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Box%20plot.py)
+ ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Box%20Plot.png)
+  Code（代码）:[ Box Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Box%20Plot.png)
   ### 4.8 Dot and Box Plot （包点和箱形图）
   
   Dot + Box plot Conveys similar information as a boxplot split in groups. The dots, in addition, gives a sense of how many data points lie within each group.
@@ -254,8 +254,8 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   
    小提琴图是箱形图在视觉上令人愉悦的替代品。 小提琴的形状或面积取决于它所持有的观察次数。 但是，小提琴图可能更难以阅读，并且在专业设置中不常用。
   
-  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Violin%20plot.png)
-  Code（代码）:[ Violin Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Violin%20plot.py)
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Violin%20Plot.png)
+  Code（代码）:[ Violin Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Violin%20plot.py)
   ### 4.10 Population Pyramid （人口金字塔）
   
    Population pyramid can be used to show either the distribution of the groups ordered by the volumne. Or it can also be used to show the stage-by-stage filtering of the population as it is used below to show how many people pass through each stage of a marketing funnel.
@@ -263,7 +263,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
    人口金字塔可用于显示由数量排序的组的分布。 或者它也可以用于显示人口的逐级过滤，因为它在下面用于显示有多少人通过营销渠道的每个阶段。
   
   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Population%20Pyramid.png)
-  Code（代码）:[Population Pyramid.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Population%20Pyramid.py)
+  Code（代码）:[Population Pyramid.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Population%20Pyramid.py)
   
   ### 4.11 Categorical Plots （分类图）
   
@@ -272,7 +272,7 @@ There are 50 Visualizations which can you to finish 7 different purposes of data
   由 seaborn库 提供的分类图可用于可视化彼此相关的2个或更多分类变量的计数分布。
   
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Categorical%20Plots.png)
-  Code（代码）:[Categorical Plots.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Categorical%20Plots.plots)
+  Code（代码）:[Categorical Plots.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Categorical%20Plots.plots)
 ## 5. Composition （组成）
 ### 5.1 Waffle Chart （华夫饼图）
 
