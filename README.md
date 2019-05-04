@@ -448,7 +448,7 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   安德鲁斯曲线有助于可视化是否存在基于给定分组的数字特征的固有分组。 如果要素（数据集中的列）无法区分组（cyl），那么这些线将不会很好地隔离，如下所示。
    
   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Image/Andrews%20Curve.png)
-  Code（代码）:[Cluster Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Code/Andrews%20Curve.py)
+  Code（代码）:[Andrews Curve.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Groups_Code/Andrews%20Curve.py)
  ### 7.4 Parallel Coordinates （平行坐标）
  
    Parallel coordinates helps to visualize if a feature helps to segregate the groups effectively. If a segregation is effected, that feature is likely going to be very useful in predicting that group.
