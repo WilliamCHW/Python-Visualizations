@@ -239,7 +239,7 @@ There are 50 Visualizations which can finish 7 different purposes of data analys
    箱形图是一种可视化分布的好方法，记住中位数、第25个第45个四分位数和异常值。 但是，您需要注意解释可能会扭曲该组中包含的点数的框的大小。 因此，手动提供每个框中的观察数量可以帮助克服这个缺点。例如，左边的前两个框具有相同大小的框，即使它们的值分别是5和47。 因此，写入该组中的观察数量是必要的。
 
  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Box%20Plot.png)
-  Code（代码）:[ Box Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Box%20Plot.png)
+  Code（代码）:[ Box Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Box%20Plot.py)
   ### 4.8 Dot and Box Plot （包点和箱形图）
   
   Dot + Box plot Conveys similar information as a boxplot split in groups. The dots, in addition, gives a sense of how many data points lie within each group.
