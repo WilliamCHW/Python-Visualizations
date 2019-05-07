@@ -362,8 +362,8 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   
   时间序列分解图显示时间序列分解为趋势，季节和残差分量。
 
-![]()
-  Code（代码）:[Time Series Decomposition Plot.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Time%20Series%20Decomposition%20Plot.png)
+  Code（代码）:[Time Series Decomposition Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Time%20Series%20Decomposition%20Plot.py)
 ### 6.6 Multiple Time Series （多个时间序列）
 
   You can plot multiple time series that measures the same value on the same chart as shown below.
