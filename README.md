@@ -198,7 +198,7 @@ There are 50 Visualizations which can finish 7 different purposes of data analys
    类型变量的直方图显示该变量的频率分布。 通过对条形图进行着色，可以将分布与表示颜色的另一个类型变量相关联。
   
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Histogram%20for%20Categorical%20Variable.png)
-  Code（代码）:[ Histogram for Categorical Variable.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Histogram%20for%20Categorical%20Variable.py)
+  Code（代码）:[ Histogram for Categorical Variable.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Histogram%20for%20Categorical%20Variable.py)
   ### 4.3 Density Plot （密度图）
   
   Density plots are a commonly used tool visualise the distribution of a continuous variable. By grouping them by the ‘response’ variable, you can inspect the relationship between the X and the Y. The below case if for representational purpose to describe how the distribution of city mileage varies with respect the number of cylinders.
