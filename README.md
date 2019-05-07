@@ -230,9 +230,9 @@ There are 50 Visualizations which can finish 7 different purposes of data analys
    分布式包点图显示按组分割的点的单变量分布。 点数越暗，该区域的数据点集中度越高。 通过对中位数进行不同着色，组的真实定位立即变得明显。
    
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Distributed%20Dot%20Plot.png)
-  Code（代码）:[ Distributed Dot Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Distributed%20Dot%20Plot.png)
+  Code（代码）:[ Distributed Dot Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Distributed%20Dot%20Plot.py)
   
-  ### 4.7 Box Plot （分布式包点图）
+  ### 4.7 Box Plot （箱型图）
   
    Box plots are a great way to visualize the distribution, keeping the median, 25th 75th quartiles and the outliers in mind. However, you need to be careful about interpreting the size the boxes which can potentially distort the number of points contained within that group. So, manually providing the number of observations in each box can help overcome this drawback.For example, the first two boxes on the left have boxes of the same size even though they have 5 and 47 obs respectively. So writing the number of observations in that group becomes necessary.  
    
