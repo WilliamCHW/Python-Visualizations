@@ -415,8 +415,8 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   
   与时间序列相比，日历地图是可视化基于时间的数据的备选和不太优选的选项。 虽然可以在视觉上吸引人，但数值并不十分明显。 然而，它可以很好地描绘极端值和假日效果。（注：需要安装 calmap 库）
 
-![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Calendar%20Heat%20map.png)
-  Code（代码）:[Calendar Heat Map.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Calendar%20Heat%20map.py)
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Calendar%20Heat%20Map.png)
+  Code（代码）:[Calendar Heat Map.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Calendar%20Heat%20Map.py)
 ### 6.12 Seasonal Plot （季节图）
 
   The seasonal plot can be used to compare how the time series performed at same day in the previous season (year / month / week etc).
