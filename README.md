@@ -378,8 +378,8 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
  
  如果要显示在同一时间点测量两个不同数量的两个时间序列，则可以在右侧的辅助Y轴上再绘制第二个系列。
   
-  ![]()
-  Code（代码）:[Plotting with different scales using secondary Y axis.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Plotting%20with%20different%20scales%20using%20secondary%20Y%20axis.png)
+  Code（代码）:[Plotting with different scales using secondary Y axis.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Plotting%20with%20different%20scales%20using%20secondary%20Y%20axis.py)
 ### 6.8 Time Series with Error Bands （带有误差带的时间序列）
 
  Time series with error bands can be constructed if you have a time series dataset with multiple observations for each time point (date / timestamp). Below you can see a couple of examples based on the orders coming in at various times of the day. And another example on the number of orders arriving over a duration of 45 days.
