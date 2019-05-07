@@ -344,8 +344,8 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   
   自相关图（ACF图）显示时间序列与其自身滞后的相关性。 每条垂直线（在自相关图上）表示系列与滞后0之间的滞后之间的相关性。图中的蓝色阴影区域是显着性水平。 那些位于蓝线之上的滞后是显着的滞后。那么如何解读呢？对于空乘旅客，我们看到多达14个滞后跨越蓝线，因此非常重要。 这意味着，14年前的航空旅客交通量对今天的交通状况有影响。PACF在另一方面显示了任何给定滞后（时间序列）与当前序列的自相关，但是删除了滞后的贡献。
 
-![]()
-  Code（代码）: [ACF and PACF Plot.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/ACF%20and%20PACF%20Plot.png)
+  Code（代码）: [ACF and PACF Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/ACF%20and%20PACF%20Plot.py)
 
 
 ### 6.4 Cross Correlation plot （交叉相关图）
