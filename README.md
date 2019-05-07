@@ -206,7 +206,7 @@ There are 50 Visualizations which can finish 7 different purposes of data analys
   密度图是一种常用工具，用于可视化连续变量的分布。 通过“响应”变量对它们进行分组，您可以检查 X 和 Y 之间的关系。以下情况用于表示目的，以描述城市里程的分布如何随着汽缸数的变化而变化。
   
    ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Density%20plot.png)
-  Code（代码）:[ Density Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Density%20plot.py)
+  Code（代码）:[ Density Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Density%20Plot.py)
   ### 4.4 Density Curves with Histogram （直方密度线图）
   
   Density curve with histogram brings together the collective information conveyed by the two plots so you can have them both in a single figure instead of two.
