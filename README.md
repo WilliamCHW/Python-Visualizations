@@ -295,9 +295,9 @@ The waffle chart can be created using the pywaffle package and is used to show t
   
   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Pie%20Chart_One.png)
   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Image/Pie%20Chart_Two.png)
-  Code（代码）:[Pie Chart One.py]((https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_One.py))
+  Code（代码）:[Pie Chart One.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_One.py)
  
-  Code（代码）:[Pie Chart Two.py]((https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_Two.py))
+  Code（代码）:[Pie Chart Two.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Composition_Code/Pie%20Chart_Two.py)
 ### 5.3 Treemap （树形图）
 
   Tree map is similar to a pie chart and it does a better work without misleading the contributions by each group.
@@ -399,32 +399,32 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   
   堆积面积图可以直观地显示多个时间序列的贡献程度，因此很容易相互比较。
 
-![]()
-  Code（代码）:[Stacked Area Chart.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Stacked%20Area%20Chart.png)
+  Code（代码）:[Stacked Area Chart.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Stacked%20Area%20Chart.py)
 ### 6.10 Area Chart UnStacked （未堆积的面积图）  
 
   An unstacked area chart is used to visualize the progress (ups and downs) of two or more series with respect to each other. In the chart below, you can clearly see how the personal savings rate comes down as the median duration of unemployment increases. The unstacked area chart brings out this phenomenon nicely.
   
   未堆积面积图用于可视化两个或更多个系列相对于彼此的进度（起伏）。 在下面的图表中，您可以清楚地看到随着失业中位数持续时间的增加，个人储蓄率会下降。 未堆积面积图表很好地展示了这种现象。
   
- ![]()
-  Code（代码）:[Area Chart UnStacked.py]()
+ ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Area%20Chart%20UnStacked.png)
+  Code（代码）:[Area Chart UnStacked.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Area%20Chart%20UnStacked.py)
 ### 6.11 Calendar Heat Map （日历热力图）
 
   Calendar map is an alternate and a less preferred option to visualise time based data compared to a time series. Though can be visually appealing, the numeric values are not quite evident. It is however effective in picturising the extreme values and holiday effects nicely.
   
   与时间序列相比，日历地图是可视化基于时间的数据的备选和不太优选的选项。 虽然可以在视觉上吸引人，但数值并不十分明显。 然而，它可以很好地描绘极端值和假日效果。（注：需要安装 calmap 库）
 
-![]()
-  Code（代码）:[Calendar Heat Map.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Calendar%20Heat%20map.png)
+  Code（代码）:[Calendar Heat Map.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Calendar%20Heat%20map.py)
 ### 6.12 Seasonal Plot （季节图）
 
   The seasonal plot can be used to compare how the time series performed at same day in the previous season (year / month / week etc).
   
   季节图可用于比较上一季中同一天（年/月/周等）的时间序列。
   
-  ![]()
-  Code（代码）:[Seasonal Plot.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Seasonal%20Plot.png)
+  Code（代码）:[Seasonal Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Seasonal%20Plot.py)
 ## 7. Groups （分组）
 
 ### 7.1 Dendrogram （树状图）
