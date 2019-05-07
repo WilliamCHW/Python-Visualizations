@@ -427,7 +427,7 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   Code（代码）:[Seasonal Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Seasonal%20Plot.py)
 ## 7. Groups （分组）
 
-### 7.1 Dendrogram （树状图）
+### 7.1 Dendrogram （树状图）  
 
   A Dendrogram groups similar points together based on a given distance metric and organizes them in tree like links based on the point’s similarity.
   
