@@ -322,8 +322,8 @@ The waffle chart can be created using the pywaffle package and is used to show t
   
   时间序列图用于显示给定度量随时间变化的方式。 在这里，您可以看到 1949年 至 1969年间航空客运量的变化情况。
   
-  ![]()
-  Code（代码）: [Time Series Plott.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Time%20Series%20Plot.png)
+  Code（代码）: [Time Series Plott.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Time%20Series%20Plot.py)
 ### 6.2 Time Series with Peaks and Troughs Annotated （带波峰波谷标记的时序图）
 
   The below time series plots all the the peaks and troughs and annotates the occurence of selected special events.
