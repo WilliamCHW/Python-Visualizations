@@ -388,8 +388,11 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
  
  如果您有一个时间序列数据集，每个时间点（日期/时间戳）有多个观测值，则可以构建带有误差带的时间序列。 您可以在下面看到一些基于每天不同时间订单的示例。 另一个关于45天持续到达的订单数量的例子。在该方法中，订单数量的平均值由白线表示。 并且计算95％置信区间并围绕均值绘制。
   
-  ![]()
-  Code（代码）:[Time Series with Error Bands.py]()
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Time%20Series%20with%20Error%20Bands_One.png)
+  ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Time%20Series%20with%20Error%20Bands_Two.png)
+  Code（代码）:[Time Series with Error Bands One.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Time%20Series%20with%20Error%20Bands_One.py)
+  
+  Code（代码）:[Time Series with Error Bands Two.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Time%20Series%20with%20Error%20Bands_Two.py)
 ### 6.9 Stacked Area Chart （堆积面积图）
 
   Stacked area chart gives an visual representation of the extent of contribution from multiple time series so that it is easy to compare against each other.
