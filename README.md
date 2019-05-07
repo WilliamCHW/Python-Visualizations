@@ -330,8 +330,8 @@ The waffle chart can be created using the pywaffle package and is used to show t
   
   下面的时间序列绘制了所有峰值和低谷，并注释了所选特殊事件的发生。
 
-![]()
-  Code（代码）: [Time Series with Peaks and Troughs Annotated.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Time%20Series%20with%20Peaks%20and%20Troughs%20Annotated.png)
+  Code（代码）: [Time Series with Peaks and Troughs Annotated.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Time%20Series%20with%20Peaks%20and%20Troughs%20Annotated.py)
 ### 6.3 Autocorrelation (ACF) and Partial Autocorrelation (PACF) Plot （自相关和部分自相关图）
 
   The ACF plot shows the correlation of the time series with its own lags. Each vertical line (on the autocorrelation plot) represents the correlation between the series and its lag starting from lag 0. The blue shaded region in the plot is the significance level. Those lags that lie above the blue line are the significant lags.
