@@ -354,8 +354,8 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
 
   交叉相关图显示了两个时间序列相互之间的滞后。
 
-![]()
-  Code（代码）:[Cross Correlation plot.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Cross%20Correlation%20plot.png)
+  Code（代码）:[Cross Correlation plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Cross%20Correlation%20plot.py)
 ### 6.5 Time Series Decomposition Plot （时间序列分解图）
  
   Time series decomposition plot shows the break down of the time series into trend, seasonal and residual components.
