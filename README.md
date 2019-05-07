@@ -255,7 +255,7 @@ There are 50 Visualizations which can finish 7 different purposes of data analys
    小提琴图是箱形图在视觉上令人愉悦的替代品。 小提琴的形状或面积取决于它所持有的观察次数。 但是，小提琴图可能更难以阅读，并且在专业设置中不常用。
   
   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Violin%20Plot.png)
-  Code（代码）:[ Violin Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Violin%20plot.py)
+  Code（代码）:[ Violin Plot.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Violin%20Plot.py)
   ### 4.10 Population Pyramid （人口金字塔）
   
    Population pyramid can be used to show either the distribution of the groups ordered by the volumne. Or it can also be used to show the stage-by-stage filtering of the population as it is used below to show how many people pass through each stage of a marketing funnel.
