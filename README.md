@@ -370,8 +370,8 @@ PACF on the other had shows the autocorrelation of any given lag (of time series
   
   您可以绘制多个时间序列，在同一图表上测量相同的值，如下所示。
 
-![]()
-  Code（代码）:[Multiple Time Series.py]()
+![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Image/Multiple%20Time%20Series.png)
+  Code（代码）:[Multiple Time Series.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Change_Code/Multiple%20Time%20Series.py)
 ### 6.7 Plotting with different scales using secondary Y axis （使用辅助 Y 轴来绘制不同范围的图形）
 
  If you want to show two time series that measures two different quantities at the same point in time, you can plot the second series againt the secondary Y axis on the right.
