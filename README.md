@@ -277,6 +277,7 @@ There are 50 Visualizations which can finish 7 different purposes of data analys
  Code（代码）:[Categorical Plots.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Categorical%20Plots.py)
   ### 4.12 hist frequency （直方频率图）
   ![](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Image/Hist%20Frequency%20Plots.png)
+  
   Code（代码）:[Hist Frequency Plots.py](https://github.com/WilliamCHW/Python-Visualizations/blob/master/Distribution_Code/Hist%20Frequency%20Plots.py)
 ## 5. Composition （组成）
 ### 5.1 Waffle Chart （华夫饼图）
